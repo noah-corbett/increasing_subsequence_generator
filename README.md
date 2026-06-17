@@ -1,3 +1,4 @@
-Simple recursive MATLAB function to generate all increasing subsequences bounded by an integer with a desired length.
+THIS IS REPO IS A TEST
 
-Publishing this as a toy example to help me learn GitHub.
+Here's a simple recursive MATLAB function to generate all increasing subsequences bounded by an integer with a desired length.
+
